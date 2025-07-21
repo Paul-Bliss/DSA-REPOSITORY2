@@ -12,3 +12,35 @@ K‑ULTRA Mega Stores operates primarily within the electronics retail space, wi
 
 ##### TOOLS USED:
 
+🔹 Excel – Uses
+
+Data entry & cleaning
+
+Basic analysis with formulas/functions
+
+Charts & pivot tables for summaries
+
+Budgeting & reporting
+
+🔹 SQL – Uses
+
+Storing and managing structured data
+
+Querying databases (SELECT, JOIN, etc.)
+
+Filtering, sorting, and aggregating records
+
+Data extraction for analysis
+
+🔹 Power BI – Uses
+
+Visualizing data with dashboards
+
+Connecting to multiple data sources
+
+Building interactive reports
+
+Sharing insights with stakeholders
+
+###### DATA ANALYSIS:
+
